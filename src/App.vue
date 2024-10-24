@@ -2,7 +2,7 @@
 </script>
 
 <template>
-jknmbj
+jknmbjмвс
 </template>
 
 <style scoped>
